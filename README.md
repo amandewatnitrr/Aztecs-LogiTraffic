@@ -14,3 +14,10 @@ LogiTraffic is an IoT based Deep Learning Powered Traffic Management and Theft D
 # Coloured Frames of Video
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/coloured_frames_car.PNG)
 
+# Face Recognition using Siamese Network
+![Alt}(https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Same_Faces.JPG)
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Different%20Faces.JPG)
+
+# Congestion at different nodes
+1. Congestion Predicted at Node 2
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Congestion_junc_2.JPG)

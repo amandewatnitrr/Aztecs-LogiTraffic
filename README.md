@@ -4,6 +4,7 @@ LogiTraffic is an IoT based Deep Learning Powered Traffic Management and Theft D
 
 # RPi Camera Connection
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Connection_Rpi_and_cam.PNG)
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Vehicle%20Theft.PNG)
 
 # Current Circuitry for prototyping
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/IMG20200806081320.jpg)
@@ -12,9 +13,9 @@ LogiTraffic is an IoT based Deep Learning Powered Traffic Management and Theft D
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/screencapture-file-C-Users-Hello-Desktop-Aztecs-login-html-2020-08-03-12_50_16.png)
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Logitraffic_Dashboard.PNG)
 
-# Vehicle Identification
+# Vehicle Detection for Counting
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/coloured_frames_car.PNG)
-
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/vehicle%20detection%20zone%20plot.PNG)
 # Vehicle Density Prediction
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.26%20(1).jpeg)
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.26.jpeg)
@@ -31,5 +32,10 @@ LogiTraffic is an IoT based Deep Learning Powered Traffic Management and Theft D
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.25%20(2).jpeg)
 
 # Congestion at different nodes
-1. Congestion Predicted at Node 2
+1. Congestion Node 2
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Congestion_junc_2.JPG)
+2. Congestion Node 3
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/IMG-20200806-WA0012.jpg)
+3. Congestion Node 4
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/IMG-20200806-WA0013.jpg)
+

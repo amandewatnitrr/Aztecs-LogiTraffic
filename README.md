@@ -8,7 +8,8 @@ LogiTraffic is an IoT based Deep Learning Powered Traffic Management and Theft D
 # Current Circuitry for prototyping
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/IMG20200806081320.jpg)
 
-# LogiTraffic Dahboard 
+# LogiTraffic Login Page and Dahboard 
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/screencapture-file-C-Users-Hello-Desktop-Aztecs-login-html-2020-08-03-12_50_16.png)
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Logitraffic_Dashboard.PNG)
 
 # Coloured Frames of Video
@@ -17,6 +18,11 @@ LogiTraffic is an IoT based Deep Learning Powered Traffic Management and Theft D
 # Face Recognition using Siamese Network
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Same_Faces.JPG)
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Different%20Faces.JPG)
+
+# Loss Curve for Vehicle Identification
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.25%20(1).jpeg)
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.25%20(2).jpeg)
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.25%20(2).jpeg)
 
 # Congestion at different nodes
 1. Congestion Predicted at Node 2

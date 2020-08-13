@@ -12,8 +12,14 @@ LogiTraffic is an IoT based Deep Learning Powered Traffic Management and Theft D
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/screencapture-file-C-Users-Hello-Desktop-Aztecs-login-html-2020-08-03-12_50_16.png)
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Logitraffic_Dashboard.PNG)
 
-# Coloured Frames of Video
+# Vehicle Identification
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/coloured_frames_car.PNG)
+
+# Vehicle Density Prediction
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.26%20(1).jpeg)
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.26.jpeg)
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.27%20(1).jpeg)
+![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/WhatsApp%20Image%202020-08-04%20at%2011.45.27.jpeg)
 
 # Face Recognition using Siamese Network
 ![Alt](https://github.com/amandewatnitrr/Aztecs-LogiTraffic/blob/master/Team%20Aztecs_LogiTraffic_E-Ujjwala%20Hackathon%202020/Same_Faces.JPG)

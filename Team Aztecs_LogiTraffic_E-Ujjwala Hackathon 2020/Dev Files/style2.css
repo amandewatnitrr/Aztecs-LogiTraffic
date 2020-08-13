@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: "Roboto" , sans-serif;
+}
+ /* Style the header links */
+ header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 10px 10px;
+  }
+  
+
+ header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 10px;
+    border-radius: 4px;
+  }
+  
+  
+  header a.logo {
+    font-size: 25px;
+    font-weight: bold;
+  }
+  
+  
+  header a:hover {
+    background-color: rgb(172, 166, 166);
+    color: black;
+  }
+  
+ 
+  header a.active {
+    background-color: dodgerblue;
+    color: white;
+  }
+
+  .sidebar{
+      background:#2F323A;
+      margin-top: 40px;
+      padding-top: 12px;
+      position:absolute;
+      left: 0;
+      width: 250px;
+      height: 95%;
+    }
+
+    .sidebar .profile_image{
+        width:100px;
+        height: 100px;
+        border-radius: 100px;
+        margin-bottom: 10px;
+    }
+
+    .sidebar h4{
+        color:#ccc;
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+
+    .sidebar a{
+        color:#fff;
+        display :block;
+        width: 100%;
+        line-height:60px;
+        text-decoration:none;
+        padding-left: 40px;
+        box-sizing:border-box;
+        transition:0.5s;
+        }
+
+    .sidebar a:hover{
+    background:#1983D3;
+
+
+    }
+    table {
+        border-collapse: collapse;
+        width: 60%;
+        text-align:center; 
+         margin-left:auto; 
+         margin-right:auto; 
+            
+      }
+      
+      th, td {
+        text-align: left;
+        padding: 8px;
+        height:150px ;
+      }
+      
+      tr:nth-child(even) {background-color: #f2f2f2;}
+      
+      .footer {
+        background-color:#ddd;
+        font-weight: bold;
+        font-size: 15px;
+      }
